@@ -357,3 +357,5 @@ which we have stored in the constant "TASK_SERIAL_RATE".
   }
   
 }
+
+//this machine kills fascists
