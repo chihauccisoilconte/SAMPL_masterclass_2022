@@ -82,8 +82,8 @@ uint32_t nextOledTaskTs = 0;
 #include "addons/RTDBHelper.h"
 
 // Insert your network credentials
-#define WIFI_SSID "FRITZ!Box 7530 JR"
-#define WIFI_PASSWORD "58637389311628142843"
+#define WIFI_SSID "YOUR WIFI"
+#define WIFI_PASSWORD "YOUR PRWRD"
 
 // Insert Firebase project API Key
 #define API_KEY "AIzaSyBkpIVjeS7dDszxE5htEBNRIaIazYGgLgQ"
